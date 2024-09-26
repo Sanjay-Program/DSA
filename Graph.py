@@ -1,5 +1,5 @@
 #This is a graph using adjacency matrix
-def create_adjacency_matrix(num_nodes, edgees):
+def create_adjacency_matrix(num_nodes, edges):
     adjacency_matrix = [[0] * num_nodes for _ in range(num_nodes)]
     for (start, end) in edges:
         adjacency_matrix[start][end] = 1 
