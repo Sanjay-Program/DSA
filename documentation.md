@@ -1,7 +1,7 @@
 # ML Challenge 2025: Smart Product Pricing Solution Template
 
-**Team Name:** Curious Minds 🧠
-**Team Members:** [List all team members]
+**Team Name:** Curious Minds 
+**Team Members:** [Sanjay M, Gayathiri Botlagunta, Prem M]
 **Submission Date:** October 12, 2025
 
 ---
@@ -77,6 +77,3 @@ Our solution successfully implemented a **multimodal machine learning pipeline**
 
 ### A. Code artefacts
 [Drive link for your complete code directory: `curious_minds.ipynb`, `src/utils.py`, `test_out.csv`]
-
-### B. Additional Results
-[Include any additional charts, graphs, or detailed results, e.g., Feature Importance plot from LightGBM.]
